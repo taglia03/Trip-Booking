@@ -1,5 +1,5 @@
+streamlit
 bs4
 streamlit
 requests
 pandas
-re
