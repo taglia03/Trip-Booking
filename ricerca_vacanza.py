@@ -1,8 +1,5 @@
 import bs4
 import requests
-import webbrowser
-import openpyxl
-from openpyxl import Workbook, load_workbook, worksheet
 import pandas as pd
 import streamlit as st
 import re
